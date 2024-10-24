@@ -5,9 +5,9 @@
 **This notebook provides an exploratory data analysis (EDA) of the Spotify Top 50 Tracks of 2020 dataset. It answers key questions about popular artists, albums, and track attributes such as danceability, loudness, and acousticness. Additionally, it compares these attributes across four major genres: Pop, Hip-Hop/Rap, Dance/Electronic, and Alternative/Indie.**
 
 ## Dataset
-Source: [Spotify Top 50 Tracks of 2020 (Kaggle)](https://www.kaggle.com/datasets/atillacolak/top-50-spotify-tracks-2020)
+- Source: [Spotify Top 50 Tracks of 2020 (Kaggle)](https://www.kaggle.com/datasets/atillacolak/top-50-spotify-tracks-2020)
 
-Features: Track name, artist, genre, album, and various musical attributes.
+- Features: Track name, artist, genre, album, and various musical attributes.
 
 ## Analysis Steps
 
@@ -44,4 +44,3 @@ Python 3.x
 Pandas
 
 Matplotlib
-
