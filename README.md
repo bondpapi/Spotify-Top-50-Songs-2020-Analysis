@@ -6,6 +6,7 @@
 
 ## Dataset
 Source: [Spotify Top 50 Tracks of 2020 (Kaggle)](https://www.kaggle.com/datasets/atillacolak/top-50-spotify-tracks-2020)
+
 Features: Track name, artist, genre, album, and various musical attributes.
 
 ## Analysis Steps
@@ -34,10 +35,13 @@ Features: Track name, artist, genre, album, and various musical attributes.
 
 ### Future Improvements
 Incorporate additional attributes like tempo or energy.
+
 Apply machine learning models to predict popular track attributes.
 
 ### Requirements
 Python 3.x
+
 Pandas
+
 Matplotlib
 
